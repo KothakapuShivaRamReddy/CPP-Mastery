@@ -17,8 +17,8 @@ int main(){
   
     int a=0;
     if(a==0){
-        // Example e;
-        static Example e;
+        Example e;
+        // static Example e;
     }
     cout<<"code ending..\n";
     return 0;

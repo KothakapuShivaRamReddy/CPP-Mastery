@@ -15,6 +15,7 @@ int main(){
     cout<<(x%5)<<endl;
     int exp1=(y*(x/y+x/y));
     int exp2=(y*x/y+y*x/y);
-    cout<<exp1<<"";
+    cout<<exp1<<"   ";
     cout<<exp2<<"\n";
+    cout<<5/2<<endl;
 return 0;}

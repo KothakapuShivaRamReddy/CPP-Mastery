@@ -8,6 +8,7 @@ int friendpair(int n){
         return n;
     }
     return friendpair(n-1)+(n-1)*friendpair(n-2);
+    
 }
 
 int main(){
@@ -15,3 +16,4 @@ int main(){
     return 0;
 
 }
+
