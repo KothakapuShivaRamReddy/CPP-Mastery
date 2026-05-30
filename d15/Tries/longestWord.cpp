@@ -53,7 +53,7 @@ class Trie{
 
     void longestStringHelper(Node* root,string &ans,string temp){
         cout<<"recursion - temp: "<<temp<<endl;
-        for(pair<char,Node*> m:root->children){
+        for(pair<char,Node*> m:root->children){//iterating through the children of the current node
             cout<<"m.first: "<<m.first<<" m.second->endofword: "<<m.second->endofword<<endl;
             if(m.second->endofword){
                 temp+=m.first;
