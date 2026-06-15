@@ -31,7 +31,7 @@ class Queue{
         tail=newNode;
 
        }
-       //pop_back
+       //pop_front
        void pop(){
         if(empty()){
             cout<<"Queue is empty"<<endl;
