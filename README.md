@@ -64,3 +64,5 @@ Shiva Ram Reddy
 
 GitHub: https://github.com/KothakapuShivaRamReddy
 LeetCode: https://leetcode.com/u/KothakapuShivaRamReddy/
+LinkedIn: www.linkedin.com/in/shiva-ram-reddy-5718b5293
+
